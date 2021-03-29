@@ -1,4 +1,9 @@
-# Getting Started with Create React App
+A Game Search Engine built with React, Redux, Styled Component, Framer Motion, using Rawg API.
+
+
+Deployed live at : https://maxly-gamephoenix.netlify.app
+
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
